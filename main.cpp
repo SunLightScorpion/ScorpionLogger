@@ -1,6 +1,5 @@
-#include "ScorpionLogger.h"
+#include <iostream>
 
 int main() {
-    cout << "Hello, World!" << endl;
     return EXIT_SUCCESS;
 }
